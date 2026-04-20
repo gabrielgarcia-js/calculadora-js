@@ -13,3 +13,6 @@ Projeto simples de calculadora para praticar lógica de programação.
 
 ## Autor
 Gabriel Romano
+
+Atualizando calculadora com interface completa e funcionalidades em JavaScript
+
